@@ -1,0 +1,47 @@
+body {
+        font-family: "Segoe UI", "Lucida Grande", Tahoma, sans-serif;
+        font-size: 100%;
+        width: 300px;
+        height: 400px;
+      }
+      h5 {
+        text-align: center;
+      }
+      h6 {
+        text-align: center;
+      }
+      h4 {
+        text-align: center;
+      }
+      .player{
+        text-align: center;
+      }
+      .btn {
+        margin: 0 auto;
+        text-align: center;
+        display: inline-block;
+        size: 10px;
+      }
+      .artist{
+        margin: 5px;
+      }
+      .authorize{
+        text-align: center;
+      }
+      .info{
+        margin: 5px;
+        background: #ffffff;
+        border-radius: 5px;
+
+      }
+      .player{
+        margin: 5px;
+        background: #ffffff;
+        text-align: center;
+      }
+      .concert{
+        margin: 10px;
+        border-radius: 5px;
+        background: #b7d0e4;
+        text-align: center;
+      }

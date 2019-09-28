@@ -1,0 +1,14 @@
+{
+  "name": "L2L",
+  "version": "1.0",
+  "description": "Discover local artists!",
+  "permissions": ["tabs","https://www.kiwi.com/","activeTab","https://accounts.spotify.com/","http://localhost/"],
+  "browser_action": {
+      "default_popup": "popup.html",
+      "default_icon": "images/icon.png"
+    },
+  "background": {
+      "scripts":["background.js"]
+    },
+  "manifest_version": 2
+}
