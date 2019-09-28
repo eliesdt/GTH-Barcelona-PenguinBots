@@ -1,9 +1,10 @@
 # GTH-Barcelona-PenguinBots
 Project submission for the `Global Travel Hackathon in Barcelona, by Penguin Bots team`.
 
-**Write one sentence explaining what does your project.**
+**We connect travelers with the local music of the countries they plan to visit.**
 
-![Add a screenshot from your project. For example the main website page.](https://raw.githubusercontent.com/Global-Travel-Hackathon/GTH-Location-TeamName/master/screenshots/Global-Travel-Hackathon-image.png)
+(https://raw.githubusercontent.com/eliesdt/GTH-Barcelona-PenguinBots/master/screenshots/screenshots/PenguinBotsL2L.png)
+(https://raw.githubusercontent.com/Global-Travel-Hackathon/GTH-Location-TeamName/master/screenshots/Global-Travel-Hackathon-image.png)
 
 ## :books: Description
 
@@ -35,9 +36,10 @@ API KEYS for Songkick and Spotify are required.
 Then, you just need to run the python main.py file, and install the Chrome Extension (it is possible to load it unpacked without having to publish it to the Google Chrome store)
 
 ## :bulb: Devstack
+
 Back-end: Python + Flask
 Front-end: Javascript + HTML
 
 ## :warning: Licence
 
->The code in this project is licensed under MIT license. By contributing to this project, you agree that your contributions will be licensed under its MIT license.
+The code in this project is licensed under MIT license. By contributing to this project, you agree that your contributions will be licensed under its MIT license.
