@@ -3,8 +3,8 @@ Project submission for the `Global Travel Hackathon in Barcelona, by Penguin Bot
 
 **We connect travelers with the local music of the countries they plan to visit.**
 
-(https://raw.githubusercontent.com/eliesdt/GTH-Barcelona-PenguinBots/master/screenshots/screenshots/PenguinBotsL2L.png)
-(https://raw.githubusercontent.com/Global-Travel-Hackathon/GTH-Location-TeamName/master/screenshots/Global-Travel-Hackathon-image.png)
+[!image](https://raw.githubusercontent.com/eliesdt/GTH-Barcelona-PenguinBots/master/screenshots/screenshots/PenguinBotsL2L.png)
+[!image2](https://raw.githubusercontent.com/Global-Travel-Hackathon/GTH-Location-TeamName/master/screenshots/Global-Travel-Hackathon-image.png)
 
 ## :books: Description
 
